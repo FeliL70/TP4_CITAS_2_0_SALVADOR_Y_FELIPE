@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://salva0008.github.io/Tp4_CITAS2.0_SALVADOR_Y_FELIPE/",
+  "homepage": "https://felil70.github.io/TP4_CITAS_2_0_SALVADOR_Y_FELIPE",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
